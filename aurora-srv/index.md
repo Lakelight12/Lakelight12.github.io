@@ -1,0 +1,2 @@
+# Aurora
+> Silence is gold.
